@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "101524147488",
+    "project_id": "poor-boy-full-ddaeax",
+    "storage_bucket": "poor-boy-full-ddaeax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101524147488:android:2ccc96c4f3166812971b45",
+        "android_client_info": {
+          "package_name": "com.mycompany.crmapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0o_tZ66_8NUrhdn_mxerfEu2Nu2UkbKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101524147488:android:c0cf678e970ecd51971b45",
+        "android_client_info": {
+          "package_name": "com.poorboyspolebarns.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0o_tZ66_8NUrhdn_mxerfEu2Nu2UkbKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
